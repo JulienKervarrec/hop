@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce dépôt contient un parcours pédagogique en français consacré à Hop : bridge L1/L2, bonder, liquidité, AMM, preuves de retrait et exploitation du SDK/node. Consultez le [sommaire du parcours](docs/fr/README.md).
+
 # Hop Monorepo
 
 > The [Hop Protocol](https://hop.exchange/) monorepo
